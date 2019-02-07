@@ -1,0 +1,6 @@
+Downloaded
+Imported as add-on
+---
+The script adds screencast-keys to proberties bar (N)
+---
+Activated screencast-keys show key-strokes in bottom-left corner

@@ -36,3 +36,6 @@ https://www.youtube.com/watch?v=0r-cGjVKvGw
 ## 10.) tutorial to follow : Smashing Glass
 https://www.youtube.com/watch?v=9L8qOq1Shiw
 
+## 11.) tutorial to follow: Basics of Animation
+https://www.youtube.com/watch?v=n0VspDUOErE
+

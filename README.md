@@ -39,3 +39,9 @@ https://www.youtube.com/watch?v=9L8qOq1Shiw
 ## 11.) tutorial to follow: Basics of Animation
 https://www.youtube.com/watch?v=n0VspDUOErE
 
+## 12.) tutorial to follow: Introduction to Rigging and Custom Shapes
+https://www.youtube.com/watch?v=8-IkdjzyJMQ&feature=youtu.be&t=23m4s
+
+## 13.) tutorial to follow: animation walk cycle with custom shape
+#### parenting with automatic weights: forward kinematic didn't work with my character and rigify armature. Therefore, I used rigs from another tutorial and added custom shapes
+https://cgi.tutsplus.com/tutorials/create-an-animation-walk-cycle-in-blender-using-rigify--cg-17812
